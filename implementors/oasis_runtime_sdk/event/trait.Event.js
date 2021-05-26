@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["oasis_runtime_sdk"] = [];
+implementors["test_runtime_simple_keyvalue"] = [{"text":"impl <a class=\"trait\" href=\"oasis_runtime_sdk/event/trait.Event.html\" title=\"trait oasis_runtime_sdk::event::Event\">Event</a> for <a class=\"enum\" href=\"test_runtime_simple_keyvalue/keyvalue/enum.Event.html\" title=\"enum test_runtime_simple_keyvalue::keyvalue::Event\">Event</a>","synthetic":false,"types":["test_runtime_simple_keyvalue::keyvalue::Event"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

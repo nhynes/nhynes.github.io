@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["oasis_runtime_sdk","oasis_runtime_sdk_macros","test_runtime_simple_consensus","test_runtime_simple_keyvalue"];

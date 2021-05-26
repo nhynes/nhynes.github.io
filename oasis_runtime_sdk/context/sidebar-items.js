@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Mode","Transaction execution mode."]],"struct":[["ContextValue",""],["DispatchContext","Dispatch context for the whole batch."],["TxContext","Per-transaction/method dispatch sub-context."]],"trait":[["Context","Runtime SDK context."]]});
